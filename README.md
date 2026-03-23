@@ -1,14 +1,21 @@
 # Hi, I'm @ad1tyagupta
 
-Product thinking, GTM storytelling, and practical AI workflows.
+I work at the intersection of product thinking, GTM storytelling, market intelligence, and practical AI workflows.
 
-Based in Munich, Germany, I like turning messy information into useful tools, clearer decisions, and digital experiences people actually use.
+Based in Leipzig, I like turning messy information into clearer decisions, useful tools, and digital experiences people actually use.
 
 ## What I Work On
 
 - AI workflows, copilots, and knowledge tools that help teams find answers faster and start from a stronger first draft.
 - GTM, market intelligence, and decision-ready strategy work for B2B, industrial, and digital products.
 - Storytelling, growth systems, and product communication across decks, websites, content, and hands-on experiments.
+
+## Tools I Use Often
+
+- AI: ChatGPT, Claude, Gemini, Perplexity
+- Analytics and growth: Excel, Power BI, Google Analytics, Google Ads
+- Design and content: Figma, Canva, Photoshop
+- Workflow: Jira, Confluence
 
 ## Selected Public Work
 
@@ -20,7 +27,9 @@ Some of my recent AI, market intelligence, and strategy work is confidential or 
 
 ## Background
 
-I'm currently doing my MBA at HHL Leipzig and have worked across projects and teams connected to Siemens Energy, BMW Group, and Bundesdruckerei, mainly around AI workflows, market research, GTM thinking, and decision support.
+I'm currently doing my MBA at HHL Leipzig and working on projects connected to Bundesdruckerei, with earlier work across BMW Group and other strategy, research, and AI-driven workflow contexts.
+
+Before that, I spent years building and growing businesses across B2B sales, product, and marketing, including co-founding Walnuts and scaling KS Plastics.
 
 ## Connect
 
